@@ -33,3 +33,18 @@ article .highlight-link:hover {
   box-shadow: inset 0 -55px 0 0 #007fff;
   color: white;
 }
+div .highlight-link-1 {
+  text-decoration: none;
+  color: aqua;
+  display: inline-block;
+  position: relative;
+  padding: 0px 7px;
+  transition: linear ease-in-out 300ms;
+  box-sizing: border-box;
+  box-shadow: inset 0 -5px 0 #007fff;
+}
+
+.highlight-link-1:hover {
+  box-shadow: inset 0 -55px 0 0 #007fff;
+  color: white;
+}
